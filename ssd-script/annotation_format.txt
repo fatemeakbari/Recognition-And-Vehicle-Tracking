@@ -1,0 +1,8 @@
+img_name           box1            box2        ..         boxn
+image1.jpg    x1,y1,x2,y2     x1,y1,x2,y2    ......   x1,y1,x2,y2
+image2.jpg    x1,y1,x2,y2     x1,y1,x2,y2    ......   x1,y1,x2,y2
+.
+.
+
+
+...

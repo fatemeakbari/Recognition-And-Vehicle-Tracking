@@ -1,0 +1,5 @@
+./DETRAC-train-data/MIV_4/image1.jpg	x1	y1	x2	y2	vehicle
+./DETRAC-train-data/MIV_4/image1.jpg	x1	y1	x2	y2	vehicle
+./DETRAC-train-data/MIV_6/image3.jpg	x1	y1	x2	y2	vehicle
+
+

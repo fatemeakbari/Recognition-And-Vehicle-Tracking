@@ -1,0 +1,4 @@
+classes= 1
+train=./yolo/config/train_img.txt
+valid=./yolo/config/test_img.txt
+names=./yolo/config/classes.names
